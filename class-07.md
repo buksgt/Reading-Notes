@@ -1,6 +1,6 @@
 # table of contents
 ## code 301 reading notes
-## Clas 06 reading notes
+## Clas 07 reading notes
 ### Reading Class 007, 2 APR
 
 What is node.js?
