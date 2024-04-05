@@ -1,6 +1,6 @@
 # table of contents
 ## code 301 reading notes
-## Clas 09 reading notes
+## Class 09 reading notes
 ### Reading Class 009, 4 APR
 
 Reading:Links to an external site.

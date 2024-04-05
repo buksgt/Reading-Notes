@@ -1,6 +1,6 @@
 # table of contents
 ## code 301 reading notes
-## Clas 06 reading notes
+## Class 06 reading notes
 ### Reading Class 006, 1 APR
 Reading
  

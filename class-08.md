@@ -1,6 +1,6 @@
 # table of contents
 ## code 301 reading notes
-## Clas 08 reading notes
+## Class 08 reading notes
 ### Reading Class 008, 3 APR
 
 APIs
