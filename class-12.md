@@ -1,7 +1,7 @@
 # table of contents
 ## code 301 reading notes
-## Class XX reading notes
-### Reading Class 00XX, X APR
+## Class 12 reading notes
+### Reading Class-12 , 9 APR
 
 READING: [Which HTTP Status Code To Use For Every CRUD App](https://www.moesif.com/blog/technical/api-design/Which-HTTP-Status-Code-To-Use-For-Every-CRUD-App/)
 
