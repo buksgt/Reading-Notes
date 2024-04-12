@@ -1,7 +1,7 @@
 # table of contents
 ## code 301 reading notes
-## Class XX reading notes
-### Reading Class 00XX, X APR
+## Class 15 reading notes
+### Reading Class 15, 12 APR
 
 # Reading 1: [https://www.csoonline.com/article/3216404/what-is-oauth-how-the-open-authorization-framework-works.html](#)
 
